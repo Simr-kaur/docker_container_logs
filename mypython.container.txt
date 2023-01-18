@@ -1,0 +1,2 @@
+Python 3.11.1 (main, Jan 17 2023, 23:30:27) [GCC 10.2.1 20210110] on linux
+Type "help", "copyright", "credits" or "license" for more information.
